@@ -1,0 +1,5 @@
+
+num = float(input("Enter a decimal number: "))
+
+print(round(num, 2))
+print(f"{num:.4f}")
